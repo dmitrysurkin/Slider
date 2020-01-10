@@ -81,6 +81,7 @@ overflow: hidden;
 }
 
 .main-screen {
+    height: 100vh;
     background-image: radial-gradient(circle 500px at center, #002e62 0%, #000824 100%);
 }
 
@@ -155,7 +156,7 @@ overflow: hidden;
     display: flex;
     justify-content: space-between;
     align-items: center;
-    padding: 90px 0px;
+    padding: 90px 0;
 }
 
 .color-controls {
